@@ -1,0 +1,16 @@
+{
+  "name": "mini-voice-assistant",
+  "version": "1.0.0",
+  "author": "carter-0 <carter@carter.red>",
+  "dependencies": {
+    "@deepgram/sdk": "^3.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-ws": "^5.0.2",
+    "fs": "^0.0.1-security",
+    "groq-sdk": "^0.5.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "replicate": "^0.32.0"
+  }
+}
