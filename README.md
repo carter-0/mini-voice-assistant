@@ -14,7 +14,7 @@ Best latency can be achived by hosting in US east datacenters (all dependant ser
 
 ## Usage
 
-1. `git clone https://github.com/carter-0/mini-voice-assistant && cd cd mini-voice-assistant`
+1. `git clone https://github.com/carter-0/mini-voice-assistant && cd mini-voice-assistant`
 2. `npm i`
 3. `mv .env.example .env`
 4. Fill in `.env` file and point vonage to your server
