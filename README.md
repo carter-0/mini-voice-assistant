@@ -1,16 +1,16 @@
 # Mini Voice Assistant
 
-OpenAI took too long to rollout GPT-4o voice so I made this instead.,
+OpenAI took too long to rollout GPT-4o voice so I made this instead
 
 Built with:
 - Vonage for phone stuff
 - Groq for fast inference of Meta's llama-3.1-70b-versatile
-- Elevenlabs for realistic TTS
+- ElevenLabs for realistic TTS
 - Deepgram for realtime transcription
 
-All could be replaced with self-hosted stuff but i don't have enough compute for that.
+All could be replaced with self-hosted stuff but i don't have enough compute for that
 
-Best latency can be achived by hosting in US east datacenters. I was able to get responses in as little as 2-3 seconds but I'm in the UK so it can probably go lower.
+Best latency can be achived by hosting in US east datacenters (all dependant services are hosted there). I was able to get responses in as little as 2-3 seconds but I'm in the UK so it can probably go lower
 
 ## Usage
 
